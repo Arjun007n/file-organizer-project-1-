@@ -32,3 +32,6 @@ Moves the file into the corresponding subdirectory by renaming it with the new p
 print("Files have been organized by extension.")
 Prints a success message after organizing the files.
 
+![Screenshot 2024-11-24 063404](https://github.com/user-attachments/assets/ea480e70-7fba-49b4-bd1b-309e07a60b1f)
+![Screenshot 2024-11-24 063429](https://github.com/user-attachments/assets/b6548793-f06a-47d7-a753-2f1fc7f0a132)
+![Screenshot 2024-11-24 063451](https://github.com/user-attachments/assets/e8e3ecc6-a772-45c8-ae19-b9c0a9c4664a)
